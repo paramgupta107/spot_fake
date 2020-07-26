@@ -17,6 +17,6 @@ python3 train.py --train_data <dataset path>
 
 Testing 
 ```
-python3 train.py --test_data <dataset path>
+python3 eval.py --test_data <dataset path>
 ```
 Output will be saved as output.csv
