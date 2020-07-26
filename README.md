@@ -1,4 +1,4 @@
-# Sbbmission for IEEE BigMM 2020 Grand Challenge Spot Fake: Multimodal fake news detection
+# Submission for IEEE BigMM 2020 Grand Challenge Spot Fake: Multimodal fake news detection
 
 
 # Usage
