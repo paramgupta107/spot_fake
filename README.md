@@ -20,8 +20,11 @@ Testing
 python3 eval.py --test_data <dataset path>
 ```
 Output will be saved as output.csv
+<<<<<<< HEAD
 
 $ Metrics
 
 [Metrics for various tested models](/resluts.xlsx)
 
+=======
+>>>>>>> 5ee724980bf769c4a978bfe36958a2359833bdee
