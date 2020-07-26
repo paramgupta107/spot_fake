@@ -23,5 +23,5 @@ Output will be saved as output.csv
 
 # Metrics
 
-[Metrics for various tested models](/blob/master/results.xlsx)
+[Metrics for various tested models](/results.xlsx)
 
