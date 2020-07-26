@@ -6,7 +6,7 @@
 Setup
 ```
 git clone https://github.com/paramgupta107/spot_fake.git
-cd Spot_Fake
+cd spot_fake
 pip install -r requirements.txt
 ```
 
