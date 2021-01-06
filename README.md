@@ -1,4 +1,4 @@
-# Submission for IEEE BigMM 2020 Grand Challenge Spot Fake: Multimodal fake news detection
+# Evaluation of various natural language processing models for fake news detection.
 
 
 # Usage
